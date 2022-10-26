@@ -1,0 +1,16 @@
+Package: com.mingle.tshack
+Version: 0.0.2-10
+Architecture: iphoneos-arm
+Maintainer: Mingle
+Installed-Size: 248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.mingle.tshack_0.0.2-10_iphoneos-arm.deb
+Size: 57888
+MD5sum: 47c278cdeb028b3a0db3fea996e4e2d8
+SHA1: 1f6df48fb056e7208eb13b8c35b833449090e16d
+SHA256: c0c4356dc07269dfbe741fce9bcd05485890c03729f5b0bcd1c9fa92948fae66
+Section: Tweaks
+Description: 用户处理触动精灵锁机后，重新生成设备信息
+Author: Mingle
+Name: 触动精灵过锁机
+
